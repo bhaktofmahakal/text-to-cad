@@ -1,0 +1,23 @@
+{
+  "name": "cad",
+  "version": "0.5.0",
+  "description": "CAD, robotics, fabrication, and local review skills.",
+  "author": {
+    "name": "bhaktofmahakal",
+    "url": "https://github.com/bhaktofmahakal"
+  },
+  "homepage": "https://www.texttocad.dev",
+  "repository": "https://github.com/bhaktofmahakal/text-to-cad",
+  "license": "MIT",
+  "keywords": [
+    "cad",
+    "robotics",
+    "fabrication",
+    "skills",
+    "step",
+    "urdf",
+    "sdf",
+    "gcode"
+  ],
+  "skills": "./skills/"
+}
